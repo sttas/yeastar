@@ -1,0 +1,6 @@
+{
+  "require": {
+    "marcelog/pami": "2.*",
+    "symfony/console": "2.*"
+  }
+}
